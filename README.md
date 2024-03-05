@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web-dev-mini-projects
 The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
 <h1 align="center">Web-dev-mini-projects</h1> 
@@ -139,3 +140,6 @@ git push -u origin <your_branch_name>
 
    
    
+=======
+# Mini_Web_development_Projects
+>>>>>>> 38af0e50dfb8d6f2f6af55fc0f022ab64960d1d1
